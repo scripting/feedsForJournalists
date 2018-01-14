@@ -24,17 +24,19 @@ I've set up this work with the most liberal open source license. This project ca
 
 ## Criteria for feeds
 
-I suggest we use the same criteria for including feeds that most of us use for pushing links to our followers on social media and our linkblogs. 
+I suggest we use the same criteria for including feeds that most of us use for pushing links to our followers on social media and through  linkblogs. 
 
-A feed is included not because we agree or disagree, all it means that a feed is included is that an informed person would want to be aware of the perspective or information they provide. 
+A feed is included not because we agree or disagree, all its inclusion means is we believe that an informed person would want to be aware of the perspective or information it provides. 
 
-So while we may not be Tralframdoreans, we will recommend Tralfamdorean news sources. 
+So while we may not be from Freedonia, we will recommend Freedonian news sources. We don't agree or disagree. 
 
 ## How the list works
 
-If you know how to do a pull request, simply make the changes you want to see in the list, and submit the request.
+If you know how to do a <a href="https://yangsu.github.io/pull-request-tutorial/">pull request</a>, simply make the changes you want to see, and submit the request.
 
-You can also post an Issue <a href="https://github.com/scripting/feedsForJournalists/issues/new">here</a>. It's pretty straightforward, I hope. You can include links to the feed, or a link to a list of feeds. Let's see how this works. ;-)
+But that can be overkill for a simple project like this one. 
 
-I've started the list with a small number of feeds I follow, to help seed the process. 
+You can also post an Issue <a href="https://github.com/scripting/feedsForJournalists/issues/new">here</a>. It's pretty straightforward, I hope. Include links to the feed, or a link to a list of feeds. Let's see how this works. ;-)
+
+I've started <a href="https://github.com/scripting/feedsForJournalists/blob/master/list.txt">the list</a> with a small number of feeds I follow, to help seed the process. 
 
