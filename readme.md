@@ -8,7 +8,7 @@ Yesterday Mathew Ingram, a longtime friend and professional journalist, put out 
 
 We could use the tools of open source to do this project.  
 
-That's what this repository is for, it's a place where we can work on that list of feeds. 
+That's what this repository is for, it's a place where we can work on a list of feeds. 
 
 ## Getting started
 
