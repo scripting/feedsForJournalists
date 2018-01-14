@@ -3,6 +3,7 @@ http://blog.archive.org/feed/
 http://en.rian.ru/export/rss2/index.xml
 http://feeds.abcnews.com/abcnews/politicsheadlines
 http://feeds.bbci.co.uk/news/world/rss.xml
+http://feeds.feedburner.com/avc
 http://feeds.feedburner.com/fastcompany/headlines
 http://feeds.feedburner.com/JamesFallows
 http://feeds.feedburner.com/JonathanChaitRssFeed
@@ -33,6 +34,8 @@ http://feeds2.feedburner.com/dawn-all-news
 http://georgelakoff.com/feed/
 http://mediagazer.com/feed.xml
 http://mondaynote.com/feed
+http://om.co/feed/
+http://pressthink.org/feed/
 http://qz.com/feed/
 http://radio3.io/users/davewiner/rss.xml
 http://rss.cbc.ca/lineup/world.xml
