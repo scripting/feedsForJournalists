@@ -34,6 +34,7 @@ http://georgelakoff.com/feed/
 http://mediagazer.com/feed.xml
 http://mondaynote.com/feed
 http://qz.com/feed/
+http://radio3.io/users/davewiner/rss.xml
 http://rss.cbc.ca/lineup/world.xml
 http://rss.dw.de/rdf/rss-en-world
 http://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
