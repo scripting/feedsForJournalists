@@ -1,0 +1,9 @@
+http://scripting.com/rss.xml
+https://mondaynote.com/feed
+https://www.aclu.org/taxonomy/feed-term/362/feed
+http://www.buzzfeed.com/tech.xml
+http://feeds.feedburner.com/fastcompany/headlines
+http://georgelakoff.com/feed/
+https://blog.archive.org/feed/
+http://www.internethistorypodcast.com/feed/
+http://feeds.feedburner.com/JamesFallows
