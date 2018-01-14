@@ -33,6 +33,7 @@ http://feeds2.feedburner.com/dawn-all-news
 http://georgelakoff.com/feed/
 http://mediagazer.com/feed.xml
 http://mondaynote.com/feed
+http://qz.com/feed/
 http://rss.cbc.ca/lineup/world.xml
 http://rss.dw.de/rdf/rss-en-world
 http://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
@@ -85,3 +86,6 @@ http://www.theguardian.com/world/asia/rss
 http://www.theguardian.com/world/europe-news/rss
 http://www.theguardian.com/world/middleeast/rss
 http://www.vox.com/rss/index.xml
+http://www.wired.com/feed/
+https://www.axios.com/feeds/feed.rss
+https://www.theatlantic.com/feed/all/
