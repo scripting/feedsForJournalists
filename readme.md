@@ -12,6 +12,8 @@ That's what this repository is for, it's a place where we can work on a list of 
 
 ## Getting started
 
+Here's the <a href="https://github.com/scripting/feedsForJournalists/blob/master/list.txt">actual list</a>. 
+
 I'll write a small piece of software that periodically turns that collection into an OPML file suitable for use in a feed reader. 
 
 From there who knows what happens, but just getting a list of feeds for journalists to follow, collaboratively, while it doesn't involve much work or technical know-how, would be a major improvement over the way we all do this for ourselves. 
