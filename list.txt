@@ -1,5 +1,8 @@
+http://beta.thehindu.com/news/?service=rss
 http://blog.archive.org/feed/
+http://en.rian.ru/export/rss2/index.xml
 http://feeds.abcnews.com/abcnews/politicsheadlines
+http://feeds.bbci.co.uk/news/world/rss.xml
 http://feeds.feedburner.com/fastcompany/headlines
 http://feeds.feedburner.com/JamesFallows
 http://feeds.feedburner.com/JonathanChaitRssFeed
@@ -11,7 +14,9 @@ http://feeds.feedburner.com/thedailybeast/articles
 http://feeds.feedburner.com/TheWirecutter
 http://feeds.feedburner.com/Torrentfreak
 http://feeds.foxnews.com/foxnews/politics?format=xml
+http://feeds.latimes.com/movies/reviews/
 http://feeds.nytimes.com/nyt/rss/Books
+http://feeds.reuters.com/reuters/worldNews
 http://feeds.washingtonpost.com/rss/entertainment
 http://feeds.washingtonpost.com/rss/lifestyle
 http://feeds.washingtonpost.com/rss/local
@@ -24,15 +29,20 @@ http://feeds.washingtonpost.com/rss/rss_right-turn
 http://feeds.washingtonpost.com/rss/rss_the-fix
 http://feeds.washingtonpost.com/rss/sports/blogs-columns
 http://feeds.washingtonpost.com/rss/world
+http://feeds2.feedburner.com/dawn-all-news
 http://georgelakoff.com/feed/
 http://mediagazer.com/feed.xml
 http://mondaynote.com/feed
+http://rss.cbc.ca/lineup/world.xml
+http://rss.dw.de/rdf/rss-en-world
 http://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
 http://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml
+http://rssfeeds.usatoday.com/UsatodaycomMovies-TopStories
 http://talkingpointsmemo.com/feed/all
 http://thinkprogress.org/feed
 http://truth-out.org/feed?format=feed
 http://www.aclu.org/taxonomy/feed-term/362/feed
+http://www.aljazeera.com/Services/Rss/?PostingId=2007731105943979989
 http://www.buzzfeed.com/tech.xml
 http://www.cbsnews.com/latest/rss/face-the-nation
 http://www.cbsnews.com/latest/rss/politics
@@ -47,6 +57,7 @@ http://www.nytimes.com/services/xml/rss/nyt/DiningandWine.xml
 http://www.nytimes.com/services/xml/rss/nyt/Europe.xml
 http://www.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml
 http://www.nytimes.com/services/xml/rss/nyt/Health.xml
+http://www.nytimes.com/services/xml/rss/nyt/Movies.xml
 http://www.nytimes.com/services/xml/rss/nyt/NYRegion.xml
 http://www.nytimes.com/services/xml/rss/nyt/Obituaries.xml
 http://www.nytimes.com/services/xml/rss/nyt/Opinion.xml
