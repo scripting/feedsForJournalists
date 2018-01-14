@@ -1,3 +1,4 @@
+http://blog.archive.org/feed/
 http://feeds.abcnews.com/abcnews/politicsheadlines
 http://feeds.feedburner.com/fastcompany/headlines
 http://feeds.feedburner.com/JamesFallows
@@ -13,10 +14,13 @@ http://feeds.foxnews.com/foxnews/politics?format=xml
 http://feeds.nytimes.com/nyt/rss/Books
 http://georgelakoff.com/feed/
 http://mediagazer.com/feed.xml
+http://mondaynote.com/feed
 http://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
 http://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml
 http://talkingpointsmemo.com/feed/all
+http://thinkprogress.org/feed
 http://truth-out.org/feed?format=feed
+http://www.aclu.org/taxonomy/feed-term/362/feed
 http://www.buzzfeed.com/tech.xml
 http://www.cbsnews.com/latest/rss/face-the-nation
 http://www.cbsnews.com/latest/rss/politics
@@ -45,7 +49,3 @@ http://www.politico.com/rss/politicopicks.xml
 http://www.slate.com/articles/news_and_politics.fulltext.all.rss
 http://www.techmeme.com/index.xml
 http://www.vox.com/rss/index.xml
-https://blog.archive.org/feed/
-https://mondaynote.com/feed
-https://thinkprogress.org/feed
-https://www.aclu.org/taxonomy/feed-term/362/feed
