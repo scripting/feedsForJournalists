@@ -32,6 +32,10 @@ http://feeds.washingtonpost.com/rss/sports/blogs-columns
 http://feeds.washingtonpost.com/rss/world
 http://feeds2.feedburner.com/dawn-all-news
 http://georgelakoff.com/feed/
+http://hosted2.ap.org/atom/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305
+http://hosted2.ap.org/atom/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd
+http://hosted2.ap.org/atom/APDEFAULT/89ae8247abe8493fae24405546e9a1aa
+http://hosted2.ap.org/atom/APDEFAULT/f70471f764144b2fab526d39972d37b3
 http://mediagazer.com/feed.xml
 http://mondaynote.com/feed
 http://om.co/feed/
