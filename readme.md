@@ -2,7 +2,7 @@
 
 An open source project to create a great list of feeds for journalists to follow.
 
-## Intro
+## Intro by Dave Winer
 
 Yesterday Mathew Ingram, a longtime friend and professional journalist, put out a <a href="https://twitter.com/mathewi/status/952214692918734848">call for feeds</a> for a reboot of his use of RSS. This got me thinking. What if a community created such a list of feeds, and did it over a period of weeks or months, with discussion, and a certain amount of deliberation. 
 
