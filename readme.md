@@ -6,9 +6,7 @@ An open source project to create a great list of feeds for journalists to follow
 
 Last week Mathew Ingram, a longtime friend and professional journalist, put out a <a href="https://twitter.com/mathewi/status/952214692918734848">call for feeds</a> for a reboot of his use of RSS. This got me thinking. What if a community created such a list of feeds, and did it over a period of weeks or months, with discussion, and a small amount of deliberation. 
 
-We could use the tools of open source to do this project.  
-
-That's what this repository is for, it's a place where we can work on a list of feeds. 
+We could use the tools of open source to do this project. That's what this project is for, it's a place where we can work on a list of feeds. 
 
 ## How to
 
