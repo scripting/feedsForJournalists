@@ -52,7 +52,6 @@ http://rss.dw.de/rdf/rss-en-world
 http://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
 http://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml
 http://rssfeeds.usatoday.com/UsatodaycomMovies-TopStories
-http://scripting.com/rss.xml
 http://stratechery.com/feed/
 http://talkingpointsmemo.com/feed/all
 http://thinkprogress.org/feed
