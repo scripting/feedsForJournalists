@@ -97,3 +97,10 @@ http://www.vox.com/rss/index.xml
 http://www.wired.com/feed/
 https://www.axios.com/feeds/feed.rss
 https://www.theatlantic.com/feed/all/
+https://www.schneier.com/blog/atom.xml
+https://krebsonsecurity.com/feed/
+https://www.theregister.co.uk/headlines.atom
+https://www.welivesecurity.com/feed/
+https://www.muckrock.com/news/feeds/
+https://daringfireball.net/feeds/main
+https://www.technologyreview.com/stories.rss
