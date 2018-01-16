@@ -56,6 +56,7 @@ http://www.buzzfeed.com/tech.xml
 http://www.cbsnews.com/latest/rss/face-the-nation
 http://www.cbsnews.com/latest/rss/politics
 http://www.dailywire.com/rss.xml
+http://www.europeanvoice.com/feed/
 http://www.internethistorypodcast.com/feed/
 http://www.memeorandum.com/feed.xml
 http://www.npr.org/rss/rss.php?id=1014
@@ -78,6 +79,7 @@ http://www.nytimes.com/services/xml/rss/nyt/TheCity.xml
 http://www.nytimes.com/services/xml/rss/nyt/World.xml
 http://www.nytimes.com/services/xml/rss/nyt/WorldBusiness.xml
 http://www.politico.com/rss/politicopicks.xml
+http://www.poynter.org/feed/
 http://www.slate.com/articles/news_and_politics.fulltext.all.rss
 http://www.techmeme.com/index.xml
 http://www.theguardian.com/books/rss
@@ -96,4 +98,5 @@ http://www.theguardian.com/world/middleeast/rss
 http://www.vox.com/rss/index.xml
 http://www.wired.com/feed/
 https://www.axios.com/feeds/feed.rss
+https://www.businessoffashion.com/syndication/feed
 https://www.theatlantic.com/feed/all/
