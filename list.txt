@@ -1,4 +1,3 @@
-http://beta.thehindu.com/news/?service=rss
 https://blog.ap.org/feed.rss
 http://blog.archive.org/feed/
 http://en.rian.ru/export/rss2/index.xml
@@ -34,7 +33,6 @@ http://feeds.washingtonpost.com/rss/rss_right-turn
 http://feeds.washingtonpost.com/rss/rss_the-fix
 http://feeds.washingtonpost.com/rss/sports/blogs-columns
 http://feeds.washingtonpost.com/rss/world
-http://feeds2.feedburner.com/dawn-all-news
 http://georgelakoff.com/feed/
 http://hnrss.org/newest?points=200
 http://hosted2.ap.org/atom/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305
