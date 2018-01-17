@@ -89,6 +89,7 @@ http://www.nytimes.com/services/xml/rss/nyt/Theater.xml
 http://www.nytimes.com/services/xml/rss/nyt/TheCity.xml
 http://www.nytimes.com/services/xml/rss/nyt/World.xml
 http://www.nytimes.com/services/xml/rss/nyt/WorldBusiness.xml
+http://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/by/dan-barry/rss.xml
 http://www.politico.com/rss/politicopicks.xml
 http://www.poynter.org/feed/
 http://www.slate.com/articles/news_and_politics.fulltext.all.rss
