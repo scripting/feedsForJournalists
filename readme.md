@@ -10,7 +10,7 @@ We could use the tools of open source to do this project. That's what this proje
 
 ## Where's the list?
 
-The list is available in the standard <a href="https://github.com/scripting/feedsForJournalists/blob/master/list.opml">OPML format</a> for subscription lists. You can use this file to subsribe to all the feeds in any feed reader. It will be updated periodically, so check back. (Even better if your reader allows you to subscribe to OPML files, a drum I've been <a href="http://scripting.com/2013/08/15/feedReaderDevs">beating</a> for a long time. Then you'll get the updates automatically.)
+The list is available in the standard <a href="https://github.com/scripting/feedsForJournalists/blob/master/list.opml">OPML format</a> for subscription lists. You can use this file to subsribe to all the feeds in any feed reader. It will be updated periodically, so check back. (It's even better if your reader allows you to subscribe to OPML files, a drum I've been <a href="http://scripting.com/2013/08/15/feedReaderDevs">beating</a> for a long time. Then you'll get the updates automatically.)
 
 The list is also available as a <a href="https://github.com/scripting/feedsForJournalists/blob/master/list.txt">plain text file</a>. 
 
