@@ -1,7 +1,12 @@
-https://blog.ap.org/feed.rss
 http://blog.archive.org/feed/
 http://en.rian.ru/export/rss2/index.xml
 http://feeds.abcnews.com/abcnews/politicsheadlines
+http://feeds.bbci.co.uk/news/business/rss.xml
+http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+http://feeds.bbci.co.uk/news/rss.xml
+http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+http://feeds.bbci.co.uk/news/technology/rss.xml
+http://feeds.bbci.co.uk/news/world/rss.xml
 http://feeds.bbci.co.uk/news/world/rss.xml
 http://feeds.feedburner.com/avc
 http://feeds.feedburner.com/fastcompany/headlines
@@ -111,3 +116,4 @@ http://www.theguardian.com/world/middleeast/rss
 http://www.variety.com/rss.asp?categoryid=10
 http://www.vox.com/rss/index.xml
 http://www.wired.com/feed/
+https://blog.ap.org/feed.rss
