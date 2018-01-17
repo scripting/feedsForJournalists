@@ -1,4 +1,5 @@
 http://beta.thehindu.com/news/?service=rss
+https://blog.ap.org/feed.rss
 http://blog.archive.org/feed/
 http://en.rian.ru/export/rss2/index.xml
 http://feeds.abcnews.com/abcnews/politicsheadlines
