@@ -1,6 +1,6 @@
 # Feeds for Journalists
 
-An open source project to create a great list of feeds for journalists to follow.
+An open source project to create a <a href="https://github.com/scripting/feedsForJournalists/blob/master/list.txt">great list</a> of feeds for journalists to follow.
 
 ## Intro by Dave Winer
 
