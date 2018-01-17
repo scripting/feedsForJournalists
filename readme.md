@@ -8,6 +8,12 @@ Last week Mathew Ingram, a longtime friend and professional journalist, put out 
 
 We could use the tools of open source to do this project. That's what this project is for, it's a place where we can work on a list of feeds. 
 
+## Where's the list?
+
+The list is available in the standard <a href="https://github.com/scripting/feedsForJournalists/blob/master/list.opml">OPML format</a> for subscription lists. You can use this file to subsribe to all the feeds in any feed reader. It will be updated periodically, so check back. (Even better if your reader allows you to subscribe to OPML files, a drum I've been <a href="http://scripting.com/2013/08/15/feedReaderDevs">beating</a> for a long time. Then you'll get the updates automatically.)
+
+The list is also available as a <a href="https://github.com/scripting/feedsForJournalists/blob/master/list.txt">plain text file</a>. 
+
 ## How to
 
 I've started <a href="https://github.com/scripting/feedsForJournalists/blob/master/list.txt">the list</a> with a small number of feeds I follow, to help seed the process. 
@@ -30,7 +36,5 @@ I've set up this work with the most liberal open source license. This project ca
 
 ## Next steps
 
-I'll write a small piece of software that periodically turns that collection into an OPML file suitable for use in a feed reader. 
-
-From there who knows what happens, but just getting a list of feeds for journalists to follow, collaboratively, while it doesn't involve much work or technical know-how, would be a major improvement over the way we all do this for ourselves. 
+From here who knows what happens, but just getting a list of feeds for journalists to follow, collaboratively, while it doesn't involve much work or technical know-how, would be a major improvement over the way we all do this for ourselves. 
 
