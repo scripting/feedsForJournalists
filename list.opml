@@ -4,13 +4,17 @@
 		<title>Feeds for Journalists list in OPML</title>
 		<link>https://github.com/scripting/feedsForJournalists</link>
 		<dateCreated>Wed, 17 Jan 2018 18:18:39 GMT</dateCreated>
-		<dateModified>Wed, 17 Jan 2018 21:32:36 GMT</dateModified>
+		<dateModified>Wed, 17 Jan 2018 23:38:46 GMT</dateModified>
 		</head>
 	<body>
-		<outline type="rss" xmlUrl="https://blog.ap.org/feed.rss" text="The Definitive Source" />
 		<outline type="rss" xmlUrl="http://blog.archive.org/feed/" text="Internet Archive Blogs" />
 		<outline type="rss" xmlUrl="http://en.rian.ru/export/rss2/index.xml" text="Sputnik International - Breaking News &amp; Analysis - Radio, Photos, Videos, Infographics" />
 		<outline type="rss" xmlUrl="http://feeds.abcnews.com/abcnews/politicsheadlines" text="ABC News: Politics" />
+		<outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/business/rss.xml" text="BBC News - Business" />
+		<outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml" text="BBC News - Entertainment &amp; Arts" />
+		<outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml" text="BBC News - Home" />
+		<outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" text="BBC News - Science &amp; Environment" />
+		<outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/technology/rss.xml" text="BBC News - Technology" />
 		<outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" text="BBC News - World" />
 		<outline type="rss" xmlUrl="http://feeds.feedburner.com/avc" text="AVC" />
 		<outline type="rss" xmlUrl="http://feeds.feedburner.com/fastcompany/headlines" text="Fast Company" />
@@ -21,7 +25,7 @@
 		<outline type="rss" xmlUrl="http://feeds.feedburner.com/realclearpolitics/qlMj" text="RealClearPolitics - Homepage" />
 		<outline type="rss" xmlUrl="http://feeds.feedburner.com/scotusblog/pFXs" text="SCOTUSblog" />
 		<outline type="rss" xmlUrl="http://feeds.feedburner.com/talking-points-memo" text="Editor's Blog" />
-		<outline type="rss" xmlUrl="http://feeds.feedburner.com/thedailybeast/articles" text="The Daily Beast - Article" />
+		<outline type="rss" xmlUrl="http://feeds.feedburner.com/thedailybeast/articles" text="The Daily Beast Latest Articles" />
 		<outline type="rss" xmlUrl="http://feeds.feedburner.com/TheWirecutter" text="Wirecutter: Reviews for the Real World" />
 		<outline type="rss" xmlUrl="http://feeds.feedburner.com/Torrentfreak" text="TorrentFreak" />
 		<outline type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/politics?format=xml" text="FOX News" />
@@ -119,10 +123,6 @@
 		<outline type="rss" xmlUrl="http://www.variety.com/rss.asp?categoryid=10" text="" />
 		<outline type="rss" xmlUrl="http://www.vox.com/rss/index.xml" text="Vox -  All" />
 		<outline type="rss" xmlUrl="http://www.wired.com/feed/" text="Feed: All Latest" />
-		<outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/business/rss.xml" text="BBC News - Business" />
-		<outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml" text="BBC News - Entertainment &amp; Arts" />
-		<outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml" text="BBC News - Home" />
-		<outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" text="BBC News - Science &amp; Environment" />
-		<outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/technology/rss.xml" text="BBC News - Technology" />
+		<outline type="rss" xmlUrl="https://blog.ap.org/feed.rss" text="The Definitive Source" />
 		</body>
 	</opml>
