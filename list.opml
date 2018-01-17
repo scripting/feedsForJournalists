@@ -4,7 +4,7 @@
 		<title>Feeds for Journalists list in OPML</title>
 		<link>https://github.com/scripting/feedsForJournalists</link>
 		<dateCreated>Wed, 17 Jan 2018 18:18:39 GMT</dateCreated>
-		<dateModified>Wed, 17 Jan 2018 21:29:36 GMT</dateModified>
+		<dateModified>Wed, 17 Jan 2018 21:30:36 GMT</dateModified>
 		</head>
 	<body>
 		<outline type="rss" xmlUrl="https://blog.ap.org/feed.rss" text="The Definitive Source" />
@@ -119,5 +119,10 @@
 		<outline type="rss" xmlUrl="http://www.variety.com/rss.asp?categoryid=10" text="" />
 		<outline type="rss" xmlUrl="http://www.vox.com/rss/index.xml" text="Vox -  All" />
 		<outline type="rss" xmlUrl="http://www.wired.com/feed/" text="Feed: All Latest" />
+		<outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/business/rss.xml" text="BBC News - Business" />
+		<outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml" text="BBC News - Entertainment &amp; Arts" />
+		<outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml" text="BBC News - Home" />
+		<outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" text="BBC News - Science &amp; Environment" />
+		<outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/technology/rss.xml" text="BBC News - Technology" />
 		</body>
 	</opml>
