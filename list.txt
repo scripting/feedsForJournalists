@@ -18,6 +18,7 @@ http://feeds.feedburner.com/Torrentfreak
 http://feeds.foxnews.com/foxnews/politics?format=xml
 http://feeds.latimes.com/movies/reviews/
 http://feeds.nytimes.com/nyt/rss/Books
+http://feeds.publicradio.org/public_feeds/apm-reports/rss/rss
 http://feeds.reuters.com/reuters/INbusinessNews
 http://feeds.reuters.com/reuters/worldNews
 http://feeds.washingtonpost.com/rss/entertainment
