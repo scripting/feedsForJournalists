@@ -4,7 +4,7 @@
 		<title>Feeds for Journalists list in OPML</title>
 		<link>https://github.com/scripting/feedsForJournalists</link>
 		<dateCreated>Wed, 17 Jan 2018 18:18:39 GMT</dateCreated>
-		<dateModified>Wed, 17 Jan 2018 18:44:39 GMT</dateModified>
+		<dateModified>Wed, 17 Jan 2018 19:23:23 GMT</dateModified>
 		</head>
 	<body>
 		<outline type="rss" xmlUrl="https://blog.ap.org/feed.rss" text="The Definitive Source" />
