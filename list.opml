@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Feeds for Journalists list in OPML</title>
+		<link>https://github.com/scripting/feedsForJournalists</link>
+		<dateCreated>Wed, 17 Jan 2018 18:18:39 GMT</dateCreated>
+		<dateModified>Wed, 17 Jan 2018 18:44:39 GMT</dateModified>
+		</head>
+	<body>
+		<outline type="rss" xmlUrl="https://blog.ap.org/feed.rss" text="The Definitive Source" />
+		<outline type="rss" xmlUrl="http://blog.archive.org/feed/" text="Internet Archive Blogs" />
+		<outline type="rss" xmlUrl="http://en.rian.ru/export/rss2/index.xml" text="Sputnik International - Breaking News &amp; Analysis - Radio, Photos, Videos, Infographics" />
+		<outline type="rss" xmlUrl="http://feeds.abcnews.com/abcnews/politicsheadlines" text="ABC News: Politics" />
+		<outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" text="BBC News - World" />
+		<outline type="rss" xmlUrl="http://feeds.feedburner.com/avc" text="AVC" />
+		<outline type="rss" xmlUrl="http://feeds.feedburner.com/fastcompany/headlines" text="Fast Company" />
+		<outline type="rss" xmlUrl="http://feeds.feedburner.com/JamesFallows" text="James Fallows | The Atlantic" />
+		<outline type="rss" xmlUrl="http://feeds.feedburner.com/JonathanChaitRssFeed" text="NY Mag" />
+		<outline type="rss" xmlUrl="http://feeds.feedburner.com/pbs/mediashift-blog" text="MediaShift" />
+		<outline type="rss" xmlUrl="http://feeds.feedburner.com/PoliticalWire" text="Political Wire" />
+		<outline type="rss" xmlUrl="http://feeds.feedburner.com/realclearpolitics/qlMj" text="RealClearPolitics - Homepage" />
+		<outline type="rss" xmlUrl="http://feeds.feedburner.com/scotusblog/pFXs" text="SCOTUSblog" />
+		<outline type="rss" xmlUrl="http://feeds.feedburner.com/talking-points-memo" text="Editor's Blog" />
+		<outline type="rss" xmlUrl="http://feeds.feedburner.com/thedailybeast/articles" text="The Daily Beast - Article" />
+		<outline type="rss" xmlUrl="http://feeds.feedburner.com/TheWirecutter" text="Wirecutter: Reviews for the Real World" />
+		<outline type="rss" xmlUrl="http://feeds.feedburner.com/Torrentfreak" text="TorrentFreak" />
+		<outline type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/politics?format=xml" text="FOX News" />
+		<outline type="rss" xmlUrl="http://feeds.latimes.com/movies/reviews/" text="L.A. Times - Movie Reviews" />
+		<outline type="rss" xmlUrl="http://feeds.nytimes.com/nyt/rss/Books" text="NYT &gt; Books" />
+		<outline type="rss" xmlUrl="http://feeds.publicradio.org/public_feeds/apm-reports/rss/rss" text="APM Reports" />
+		<outline type="rss" xmlUrl="http://feeds.reuters.com/reuters/INbusinessNews" text="Reuters: Money News" />
+		<outline type="rss" xmlUrl="http://feeds.reuters.com/reuters/worldNews" text="Reuters: World News" />
+		<outline type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/entertainment" text="Entertainment" />
+		<outline type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/lifestyle" text="Lifestyle" />
+		<outline type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/local" text="Local" />
+		<outline type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/national" text="National" />
+		<outline type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/opinions" text="Opinions" />
+		<outline type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/politics" text="Politics" />
+		<outline type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/rss_capital-weather-gang" text="Capital Weather Gang" />
+		<outline type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/rss_early-lead" text="Early Lead" />
+		<outline type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/rss_right-turn" text="Right Turn" />
+		<outline type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/rss_the-fix" text="The Fix" />
+		<outline type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/sports/blogs-columns" text="Sports" />
+		<outline type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/world" text="World" />
+		<outline type="rss" xmlUrl="http://georgelakoff.com/feed/" text="George Lakoff" />
+		<outline type="rss" xmlUrl="http://hnrss.org/newest?points=200" text="Hacker News: Newest" />
+		<outline type="rss" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305" text="Top Headlines" />
+		<outline type="rss" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd" text="Technology Headlines" />
+		<outline type="rss" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/89ae8247abe8493fae24405546e9a1aa" text="Politics Headlines" />
+		<outline type="rss" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/f70471f764144b2fab526d39972d37b3" text="Business Headlines" />
+		<outline type="rss" xmlUrl="http://krugman.blogs.nytimes.com/feed/" text="Paul Krugman" />
+		<outline type="rss" xmlUrl="http://mediagazer.com/feed.xml" text="Mediagazer" />
+		<outline type="rss" xmlUrl="http://mondaynote.com/feed" text="Monday Note - Medium" />
+		<outline type="rss" xmlUrl="http://om.co/feed/" text="Om Malik" />
+		<outline type="rss" xmlUrl="http://pressthink.org/feed/" text="PressThink" />
+		<outline type="rss" xmlUrl="http://qz.com/feed/" text="Quartz" />
+		<outline type="rss" xmlUrl="http://radio3.io/users/davewiner/rss.xml" text="Dave Winer" />
+		<outline type="rss" xmlUrl="http://rss.cbc.ca/lineup/world.xml" text="CBC | World News" />
+		<outline type="rss" xmlUrl="http://rss.dw.de/rdf/rss-en-world" text="World | Deutsche Welle" />
+		<outline type="rss" xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/Politics.xml" text="NYT &gt; Politics" />
+		<outline type="rss" xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml" text="NYT &gt; Sunday Review" />
+		<outline type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomMovies-TopStories" text="GANNETT Syndication Service" />
+		<outline type="rss" xmlUrl="http://stratechery.com/feed/" text="Stratechery by Ben Thompson" />
+		<outline type="rss" xmlUrl="http://talkingpointsmemo.com/feed/all" text="All TPM News" />
+		<outline type="rss" xmlUrl="http://thinkprogress.org/feed" text="ThinkProgress" />
+		<outline type="rss" xmlUrl="http://truth-out.org/feed?format=feed" text="Truthout Stories" />
+		<outline type="rss" xmlUrl="http://www.aclu.org/taxonomy/feed-term/362/feed" text="American Civil Liberties Union" />
+		<outline type="rss" xmlUrl="http://www.aljazeera.com/Services/Rss/?PostingId=2007731105943979989" text="Al Jazeera English" />
+		<outline type="rss" xmlUrl="http://www.axios.com/feeds/feed.rss" text="Axios" />
+		<outline type="rss" xmlUrl="http://www.ben-evans.com/benedictevans?format=RSS" text="Benedict Evans" />
+		<outline type="rss" xmlUrl="http://www.businessoffashion.com/syndication/feed" text="The Business of Fashion" />
+		<outline type="rss" xmlUrl="http://www.buzzfeed.com/tech.xml" text="BuzzFeed - Tech" />
+		<outline type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/face-the-nation" text="Face The Nation - CBSNews.com" />
+		<outline type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/politics" text="Politics - CBSNews.com" />
+		<outline type="rss" xmlUrl="http://www.dailywire.com/rss.xml" text="Daily Wire" />
+		<outline type="rss" xmlUrl="http://www.engadget.com/rss.xml" text="Engadget RSS Feed" />
+		<outline type="rss" xmlUrl="http://www.europeanvoice.com/feed/" text="POLITICO" />
+		<outline type="rss" xmlUrl="http://www.internethistorypodcast.com/feed/" text="Internet History Podcast" />
+		<outline type="rss" xmlUrl="http://www.memeorandum.com/feed.xml" text="memeorandum" />
+		<outline type="rss" xmlUrl="http://www.niemanlab.org/feed/" text="Nieman Lab" />
+		<outline type="rss" xmlUrl="http://www.npr.org/rss/rss.php?id=1014" text="Politics : NPR" />
+		<outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Americas.xml" text="NYT &gt; Americas" />
+		<outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Arts.xml" text="NYT &gt; Arts" />
+		<outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml" text="NYT &gt; Asia Pacific" />
+		<outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/DiningandWine.xml" text="NYT &gt; Food" />
+		<outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Europe.xml" text="NYT &gt; Europe" />
+		<outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml" text="NYT &gt; Fashion &amp; Style" />
+		<outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Health.xml" text="NYT &gt; Health" />
+		<outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Movies.xml" text="NYT &gt; Movies" />
+		<outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/NYRegion.xml" text="NYT &gt; N.Y. / Region" />
+		<outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Obituaries.xml" text="NYT &gt; Obituaries" />
+		<outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Opinion.xml" text="NYT &gt; Opinion" />
+		<outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Science.xml" text="NYT &gt; Science" />
+		<outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Sports.xml" text="NYT &gt; Sports" />
+		<outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Television.xml" text="NYT &gt; Television" />
+		<outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Theater.xml" text="NYT &gt; Theater" />
+		<outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/TheCity.xml" text="New York" />
+		<outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/World.xml" text="NYT &gt; World" />
+		<outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/WorldBusiness.xml" text="NYT &gt; Business Day" />
+		<outline type="rss" xmlUrl="http://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/by/dan-barry/rss.xml" text="Dan Barry" />
+		<outline type="rss" xmlUrl="http://www.politico.com/rss/politicopicks.xml" text="POLITICO - TOP Stories" />
+		<outline type="rss" xmlUrl="http://www.poynter.org/feed/" text="Poynter - A global leader in journalism." />
+		<outline type="rss" xmlUrl="http://www.slate.com/articles/news_and_politics.fulltext.all.rss" text="Slate Articles" />
+		<outline type="rss" xmlUrl="http://www.techmeme.com/index.xml" text="Techmeme" />
+		<outline type="rss" xmlUrl="http://www.theatlantic.com/feed/all/" text="The Atlantic" />
+		<outline type="rss" xmlUrl="http://www.theguardian.com/books/rss" text="Books | The Guardian" />
+		<outline type="rss" xmlUrl="http://www.theguardian.com/business/diversity-and-equality/rss" text="Diversity And Equality | The Guardian" />
+		<outline type="rss" xmlUrl="http://www.theguardian.com/business/economics/rss" text="Economics | The Guardian" />
+		<outline type="rss" xmlUrl="http://www.theguardian.com/lifeandstyle/women/rss" text="Women | The Guardian" />
+		<outline type="rss" xmlUrl="http://www.theguardian.com/music/rss" text="Music | The Guardian" />
+		<outline type="rss" xmlUrl="http://www.theguardian.com/stage/rss" text="Stage | The Guardian" />
+		<outline type="rss" xmlUrl="http://www.theguardian.com/tv-and-radio/rss" text="TV and radio | The Guardian" />
+		<outline type="rss" xmlUrl="http://www.theguardian.com/uk-news/rss" text="UK news | The Guardian" />
+		<outline type="rss" xmlUrl="http://www.theguardian.com/us/film/rss" text="Film | The Guardian" />
+		<outline type="rss" xmlUrl="http://www.theguardian.com/world/americas/rss" text="Americas | The Guardian" />
+		<outline type="rss" xmlUrl="http://www.theguardian.com/world/asia/rss" text="Asia news | The Guardian" />
+		<outline type="rss" xmlUrl="http://www.theguardian.com/world/europe-news/rss" text="Europe | The Guardian" />
+		<outline type="rss" xmlUrl="http://www.theguardian.com/world/middleeast/rss" text="Middle East and North Africa | The Guardian" />
+		<outline type="rss" xmlUrl="http://www.variety.com/rss.asp?categoryid=10" text="" />
+		<outline type="rss" xmlUrl="http://www.vox.com/rss/index.xml" text="Vox -  All" />
+		<outline type="rss" xmlUrl="http://www.wired.com/feed/" text="Feed: All Latest" />
+		</body>
+	</opml>
