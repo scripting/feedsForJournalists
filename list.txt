@@ -20,6 +20,7 @@ http://feeds.feedburner.com/talking-points-memo
 http://feeds.feedburner.com/thedailybeast/articles
 http://feeds.feedburner.com/TheWirecutter
 http://feeds.feedburner.com/Torrentfreak
+http://feeds.foxnews.com/foxnews/latest
 http://feeds.foxnews.com/foxnews/politics?format=xml
 http://feeds.latimes.com/movies/reviews/
 http://feeds.nytimes.com/nyt/rss/Books
@@ -116,4 +117,5 @@ http://www.theguardian.com/world/middleeast/rss
 http://www.variety.com/rss.asp?categoryid=10
 http://www.vox.com/rss/index.xml
 http://www.wired.com/feed/
+http://www.wsj.com/xml/rss/3_7041.xml
 https://blog.ap.org/feed.rss
