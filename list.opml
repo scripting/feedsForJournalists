@@ -4,7 +4,7 @@
 		<title>Feeds for Journalists list in OPML</title>
 		<link>https://github.com/scripting/feedsForJournalists</link>
 		<dateCreated>Wed, 17 Jan 2018 18:18:39 GMT</dateCreated>
-		<dateModified>Fri, 19 Jan 2018 17:51:51 GMT</dateModified>
+		<dateModified>Fri, 19 Jan 2018 20:10:06 GMT</dateModified>
 		</head>
 	<body>
 		<outline type="rss" xmlUrl="http://blog.archive.org/feed/" text="Internet Archive Blogs" />
@@ -76,6 +76,10 @@
 		<outline type="rss" xmlUrl="http://www.ben-evans.com/benedictevans?format=RSS" text="Benedict Evans" />
 		<outline type="rss" xmlUrl="http://www.businessoffashion.com/syndication/feed" text="The Business of Fashion" />
 		<outline type="rss" xmlUrl="http://www.buzzfeed.com/tech.xml" text="BuzzFeed - Tech" />
+		<outline type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-canada" text="CBC | Canada News" />
+		<outline type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-technology" text="CBC | Technology News" />
+		<outline type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-topstories" text="CBC | Top Stories News" />
+		<outline type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-world" text="CBC | World News" />
 		<outline type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/face-the-nation" text="Face The Nation - CBSNews.com" />
 		<outline type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/politics" text="Politics - CBSNews.com" />
 		<outline type="rss" xmlUrl="http://www.dailywire.com/rss.xml" text="Daily Wire" />
@@ -127,9 +131,5 @@
 		<outline type="rss" xmlUrl="http://www.wired.com/feed/" text="Feed: All Latest" />
 		<outline type="rss" xmlUrl="http://www.wsj.com/xml/rss/3_7041.xml" text="WSJ.com: Opinion" />
 		<outline type="rss" xmlUrl="https://blog.ap.org/feed.rss" text="The Definitive Source" />
-		<outline type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-canada" text="CBC | Canada News" />
-		<outline type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-technology" text="CBC | Technology News" />
-		<outline type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-topstories" text="CBC | Top Stories News" />
-		<outline type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-world" text="CBC | World News" />
 		</body>
 	</opml>
