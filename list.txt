@@ -76,6 +76,7 @@ http://www.cbc.ca/cmlink/rss-world
 http://www.cbsnews.com/latest/rss/face-the-nation
 http://www.cbsnews.com/latest/rss/politics
 http://www.dailywire.com/rss.xml
+http://www.economist.com/sections/business-finance/rss.xml
 http://www.engadget.com/rss.xml
 http://www.europeanvoice.com/feed/
 http://www.internethistorypodcast.com/feed/
