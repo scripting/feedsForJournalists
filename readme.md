@@ -34,6 +34,10 @@ So while we may not be from Freedonia, we will recommend Freedonian news sources
 
 I've set up this work with the most liberal open source license. This project can be forked, competed with, repurposed, with or without credit. Do with it as you please.
 
+## Related projects
+
+I fed the list into my <a href="https://github.com/scripting/river5">River5</a> software, and now it's producing a <a href="http://scripting.com/journalists/">river of news</a> from all the sources in the list. 
+
 ## Next steps
 
 From here who knows what happens, but just getting a list of feeds for journalists to follow, collaboratively, while it doesn't involve much work or technical know-how, would be a major improvement over the way we all do this for ourselves. 
