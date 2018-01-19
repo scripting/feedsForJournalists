@@ -48,6 +48,7 @@ http://hosted2.ap.org/atom/APDEFAULT/f70471f764144b2fab526d39972d37b3
 http://krugman.blogs.nytimes.com/feed/
 http://mediagazer.com/feed.xml
 http://mondaynote.com/feed
+http://motherboard.vice.com/en_us/rss
 http://om.co/feed/
 http://pressthink.org/feed/
 http://qz.com/feed/
