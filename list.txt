@@ -104,6 +104,9 @@ http://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/by/dan-
 http://www.politico.com/rss/politicopicks.xml
 http://www.poynter.org/feed/
 http://www.slate.com/articles/news_and_politics.fulltext.all.rss
+http://www.spiegel.de/international/business/index.rss
+http://www.spiegel.de/international/europe/index.rss
+http://www.spiegel.de/international/index.rss
 http://www.techmeme.com/index.xml
 http://www.theatlantic.com/feed/all/
 http://www.theguardian.com/books/rss
