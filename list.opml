@@ -4,7 +4,7 @@
 		<title>Feeds for Journalists list in OPML</title>
 		<link>https://github.com/scripting/feedsForJournalists</link>
 		<dateCreated>Wed, 17 Jan 2018 18:18:39 GMT</dateCreated>
-		<dateModified>Fri, 19 Jan 2018 20:11:06 GMT</dateModified>
+		<dateModified>Fri, 19 Jan 2018 20:12:06 GMT</dateModified>
 		</head>
 	<body>
 		<outline type="rss" xmlUrl="http://blog.archive.org/feed/" text="Internet Archive Blogs" />
