@@ -4,7 +4,7 @@
 		<title>Feeds for Journalists list in OPML</title>
 		<link>https://github.com/scripting/feedsForJournalists</link>
 		<dateCreated>Wed, 17 Jan 2018 18:18:39 GMT</dateCreated>
-		<dateModified>Fri, 19 Jan 2018 17:48:51 GMT</dateModified>
+		<dateModified>Fri, 19 Jan 2018 17:49:51 GMT</dateModified>
 		</head>
 	<body>
 		<outline type="rss" xmlUrl="http://blog.archive.org/feed/" text="Internet Archive Blogs" />
@@ -127,5 +127,9 @@
 		<outline type="rss" xmlUrl="http://www.wired.com/feed/" text="Feed: All Latest" />
 		<outline type="rss" xmlUrl="http://www.wsj.com/xml/rss/3_7041.xml" text="WSJ.com: Opinion" />
 		<outline type="rss" xmlUrl="https://blog.ap.org/feed.rss" text="The Definitive Source" />
+		<outline type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-canada" text="CBC | Canada News" />
+		<outline type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-technology" text="CBC | Technology News" />
+		<outline type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-topstories" text="CBC | Top Stories News" />
+		<outline type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-world" text="CBC | World News" />
 		</body>
 	</opml>
