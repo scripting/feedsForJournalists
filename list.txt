@@ -1,3 +1,4 @@
+http://blog.ap.org/feed.rss
 http://blog.archive.org/feed/
 http://en.rian.ru/export/rss2/index.xml
 http://feeds.abcnews.com/abcnews/politicsheadlines
@@ -127,4 +128,3 @@ http://www.variety.com/rss.asp?categoryid=10
 http://www.vox.com/rss/index.xml
 http://www.wired.com/feed/
 http://www.wsj.com/xml/rss/3_7041.xml
-https://blog.ap.org/feed.rss
