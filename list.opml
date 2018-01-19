@@ -4,7 +4,7 @@
 		<title>Feeds for Journalists list in OPML</title>
 		<link>https://github.com/scripting/feedsForJournalists</link>
 		<dateCreated>Wed, 17 Jan 2018 18:18:39 GMT</dateCreated>
-		<dateModified>Fri, 19 Jan 2018 20:13:06 GMT</dateModified>
+		<dateModified>Fri, 19 Jan 2018 21:36:27 GMT</dateModified>
 		</head>
 	<body>
 		<outline type="rss" xmlUrl="http://blog.archive.org/feed/" text="Internet Archive Blogs" />
@@ -111,6 +111,9 @@
 		<outline type="rss" xmlUrl="http://www.politico.com/rss/politicopicks.xml" text="POLITICO - TOP Stories" />
 		<outline type="rss" xmlUrl="http://www.poynter.org/feed/" text="Poynter - A global leader in journalism." />
 		<outline type="rss" xmlUrl="http://www.slate.com/articles/news_and_politics.fulltext.all.rss" text="Slate Articles" />
+		<outline type="rss" xmlUrl="http://www.spiegel.de/international/business/index.rss" text="SPIEGEL ONLINE - International" />
+		<outline type="rss" xmlUrl="http://www.spiegel.de/international/europe/index.rss" text="SPIEGEL ONLINE - International" />
+		<outline type="rss" xmlUrl="http://www.spiegel.de/international/index.rss" text="SPIEGEL ONLINE - International" />
 		<outline type="rss" xmlUrl="http://www.techmeme.com/index.xml" text="Techmeme" />
 		<outline type="rss" xmlUrl="http://www.theatlantic.com/feed/all/" text="The Atlantic" />
 		<outline type="rss" xmlUrl="http://www.theguardian.com/books/rss" text="Books | The Guardian" />
@@ -131,8 +134,5 @@
 		<outline type="rss" xmlUrl="http://www.wired.com/feed/" text="Feed: All Latest" />
 		<outline type="rss" xmlUrl="http://www.wsj.com/xml/rss/3_7041.xml" text="WSJ.com: Opinion" />
 		<outline type="rss" xmlUrl="https://blog.ap.org/feed.rss" text="The Definitive Source" />
-		<outline type="rss" xmlUrl="http://www.spiegel.de/international/business/index.rss" text="SPIEGEL ONLINE - International" />
-		<outline type="rss" xmlUrl="http://www.spiegel.de/international/europe/index.rss" text="SPIEGEL ONLINE - International" />
-		<outline type="rss" xmlUrl="http://www.spiegel.de/international/index.rss" text="SPIEGEL ONLINE - International" />
 		</body>
 	</opml>
