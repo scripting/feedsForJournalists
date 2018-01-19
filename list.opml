@@ -4,7 +4,7 @@
 		<title>Feeds for Journalists list in OPML</title>
 		<link>https://github.com/scripting/feedsForJournalists</link>
 		<dateCreated>Wed, 17 Jan 2018 18:18:39 GMT</dateCreated>
-		<dateModified>Fri, 19 Jan 2018 14:22:24 GMT</dateModified>
+		<dateModified>Fri, 19 Jan 2018 14:39:40 GMT</dateModified>
 		</head>
 	<body>
 		<outline type="rss" xmlUrl="http://blog.archive.org/feed/" text="Internet Archive Blogs" />
@@ -56,6 +56,7 @@
 		<outline type="rss" xmlUrl="http://krugman.blogs.nytimes.com/feed/" text="Paul Krugman" />
 		<outline type="rss" xmlUrl="http://mediagazer.com/feed.xml" text="Mediagazer" />
 		<outline type="rss" xmlUrl="http://mondaynote.com/feed" text="Monday Note - Medium" />
+		<outline type="rss" xmlUrl="http://motherboard.vice.com/en_us/rss" text="Motherboard" />
 		<outline type="rss" xmlUrl="http://om.co/feed/" text="Om Malik" />
 		<outline type="rss" xmlUrl="http://pressthink.org/feed/" text="PressThink" />
 		<outline type="rss" xmlUrl="http://qz.com/feed/" text="Quartz" />
