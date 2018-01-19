@@ -4,7 +4,7 @@
 		<title>Feeds for Journalists list in OPML</title>
 		<link>https://github.com/scripting/feedsForJournalists</link>
 		<dateCreated>Wed, 17 Jan 2018 18:18:39 GMT</dateCreated>
-		<dateModified>Thu, 18 Jan 2018 03:13:27 GMT</dateModified>
+		<dateModified>Fri, 19 Jan 2018 14:22:24 GMT</dateModified>
 		</head>
 	<body>
 		<outline type="rss" xmlUrl="http://blog.archive.org/feed/" text="Internet Archive Blogs" />
@@ -28,6 +28,7 @@
 		<outline type="rss" xmlUrl="http://feeds.feedburner.com/thedailybeast/articles" text="The Daily Beast Latest Articles" />
 		<outline type="rss" xmlUrl="http://feeds.feedburner.com/TheWirecutter" text="Wirecutter: Reviews for the Real World" />
 		<outline type="rss" xmlUrl="http://feeds.feedburner.com/Torrentfreak" text="TorrentFreak" />
+		<outline type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/latest" text="FOX News" />
 		<outline type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/politics?format=xml" text="FOX News" />
 		<outline type="rss" xmlUrl="http://feeds.latimes.com/movies/reviews/" text="L.A. Times - Movie Reviews" />
 		<outline type="rss" xmlUrl="http://feeds.nytimes.com/nyt/rss/Books" text="NYT &gt; Books" />
@@ -123,8 +124,7 @@
 		<outline type="rss" xmlUrl="http://www.variety.com/rss.asp?categoryid=10" text="" />
 		<outline type="rss" xmlUrl="http://www.vox.com/rss/index.xml" text="Vox -  All" />
 		<outline type="rss" xmlUrl="http://www.wired.com/feed/" text="Feed: All Latest" />
-		<outline type="rss" xmlUrl="https://blog.ap.org/feed.rss" text="The Definitive Source" />
-		<outline type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/latest" text="FOX News" />
 		<outline type="rss" xmlUrl="http://www.wsj.com/xml/rss/3_7041.xml" text="WSJ.com: Opinion" />
+		<outline type="rss" xmlUrl="https://blog.ap.org/feed.rss" text="The Definitive Source" />
 		</body>
 	</opml>
