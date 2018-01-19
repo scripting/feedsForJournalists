@@ -69,6 +69,10 @@ http://www.axios.com/feeds/feed.rss
 http://www.ben-evans.com/benedictevans?format=RSS
 http://www.businessoffashion.com/syndication/feed
 http://www.buzzfeed.com/tech.xml
+http://www.cbc.ca/cmlink/rss-canada
+http://www.cbc.ca/cmlink/rss-technology
+http://www.cbc.ca/cmlink/rss-topstories
+http://www.cbc.ca/cmlink/rss-world
 http://www.cbsnews.com/latest/rss/face-the-nation
 http://www.cbsnews.com/latest/rss/politics
 http://www.dailywire.com/rss.xml
